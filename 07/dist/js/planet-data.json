@@ -1,0 +1,92 @@
+[
+  {
+    "label": "Sun",
+    "props": {
+      "radius": 13914,
+      "distance": 0,
+      "velocity": 1,
+      "color": "#ffe500"
+    }
+  },
+  {
+    "label": "Mercury",
+    "props": {
+      "radius": 2439.764,
+      "distance": 0.38709888,
+      "velocity": 47.8725,
+      "color": "#8c8b79"
+    }
+  },
+  {
+    "label": "Venus",
+    "props": {
+      "radius": 6051.59,
+      "distance": 0.72333193,
+      "velocity": 35.0214,
+      "color": "#b78b5f"
+    }
+  },
+  {
+    "label": "Earth",
+    "props": {
+      "radius": 6378.15,
+      "distance": 1,
+      "velocity": 29.7859,
+      "color": "#6fbccf"
+    }
+  },
+  {
+    "label": "Mars",
+    "props": {
+      "radius": 3397,
+      "distance": 1.5236621,
+      "velocity": 24.1309,
+      "color": "#b85139"
+    }
+  },
+  {
+    "label": "Jupiter",
+    "props": {
+      "radius": 71492.68,
+      "distance": 5.2033623,
+      "velocity": 13.0697,
+      "color": "#8caaa7"
+    }
+  },
+  {
+    "label": "Saturn",
+    "props": {
+      "radius": 60267.14,
+      "distance": 9.5370690,
+      "velocity": 9.6724,
+      "color": "#d6cab1"
+    }
+  },
+  {
+    "label": "Uranus",
+    "props": {
+      "radius": 25559,
+      "distance": 19.191261,
+      "velocity": 6.8352,
+      "color": "#7fada9"
+    }
+  },
+  {
+    "label": "Neptun",
+    "props": {
+      "radius": 24764,
+      "distance": 30.068960,
+      "velocity": 5.4778,
+      "color": "#355f8f"
+    }
+  },
+  {
+    "label": "Pluto",
+    "props": {
+      "radius": 1187,
+      "distance": 39.482,
+      "velocity": 4.668,
+      "color": "#b17f4a"
+    }
+  }
+]
